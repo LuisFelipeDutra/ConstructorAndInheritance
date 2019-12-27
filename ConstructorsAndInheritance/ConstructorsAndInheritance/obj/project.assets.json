@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJECTS\\ConstructorsAndInheritance\\ConstructorsAndInheritance\\ConstructorsAndInheritance.csproj",
+      "projectUniqueName": "C:\\Users\\Luis_Dutra\\source\\repos\\ConstructorAndInheritance\\ConstructorsAndInheritance\\ConstructorsAndInheritance\\ConstructorsAndInheritance.csproj",
       "projectName": "ConstructorsAndInheritance",
-      "projectPath": "C:\\PROJECTS\\ConstructorsAndInheritance\\ConstructorsAndInheritance\\ConstructorsAndInheritance.csproj",
+      "projectPath": "C:\\Users\\Luis_Dutra\\source\\repos\\ConstructorAndInheritance\\ConstructorsAndInheritance\\ConstructorsAndInheritance\\ConstructorsAndInheritance.csproj",
       "packagesPath": "C:\\Users\\Luis_Dutra\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJECTS\\ConstructorsAndInheritance\\ConstructorsAndInheritance\\obj\\",
+      "outputPath": "C:\\Users\\Luis_Dutra\\source\\repos\\ConstructorAndInheritance\\ConstructorsAndInheritance\\ConstructorsAndInheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
