@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsAndInheritance", "ConstructorsAndInheritance\ConstructorsAndInheritance.csproj", "{044A80D0-9D89-4D88-936D-529C9C88A579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorsAndInheritance", "ConstructorsAndInheritance\ConstructorsAndInheritance.csproj", "{044A80D0-9D89-4D88-936D-529C9C88A579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{CA196EB2-596C-4F36-B974-0924EBA6510F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{044A80D0-9D89-4D88-936D-529C9C88A579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{044A80D0-9D89-4D88-936D-529C9C88A579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{044A80D0-9D89-4D88-936D-529C9C88A579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA196EB2-596C-4F36-B974-0924EBA6510F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA196EB2-596C-4F36-B974-0924EBA6510F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA196EB2-596C-4F36-B974-0924EBA6510F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA196EB2-596C-4F36-B974-0924EBA6510F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

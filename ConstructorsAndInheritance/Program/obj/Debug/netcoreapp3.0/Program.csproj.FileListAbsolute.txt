@@ -1,0 +1,14 @@
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\bin\Debug\netcoreapp3.0\Program.exe
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\bin\Debug\netcoreapp3.0\Program.deps.json
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\bin\Debug\netcoreapp3.0\Program.runtimeconfig.json
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\bin\Debug\netcoreapp3.0\Program.runtimeconfig.dev.json
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\bin\Debug\netcoreapp3.0\Program.dll
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\bin\Debug\netcoreapp3.0\Program.pdb
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\bin\Debug\netcoreapp3.0\ConstructorsAndInheritance.dll
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\bin\Debug\netcoreapp3.0\ConstructorsAndInheritance.pdb
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\obj\Debug\netcoreapp3.0\Program.csprojAssemblyReference.cache
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\obj\Debug\netcoreapp3.0\Program.AssemblyInfoInputs.cache
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\obj\Debug\netcoreapp3.0\Program.AssemblyInfo.cs
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\obj\Debug\netcoreapp3.0\Program.csproj.CopyComplete
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\obj\Debug\netcoreapp3.0\Program.dll
+C:\Users\Luis_Dutra\source\repos\ConstructorAndInheritance\ConstructorsAndInheritance\Program\obj\Debug\netcoreapp3.0\Program.pdb
